@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/j4y146/main/edit/main/READ
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### [About](https://github.com/j4y146/J4YMusic/blob/master/about)
+### [About](https://github.com/j4y146/J4YMusic/blob/master/about.md)
 
 ### Jekyll Themes
 

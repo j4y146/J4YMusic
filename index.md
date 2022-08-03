@@ -12,4 +12,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support?
 
-Want to support me? Well, I haven't implemented that part yet.
+Want to support me? [Click Here](https://www.buymeacoffee.com/j4y146B)

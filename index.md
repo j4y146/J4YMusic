@@ -2,7 +2,7 @@
 
 This website is a place for me to publish my music so everyone can listen to it, if they want.
 
-![This is an image](dfgdfghd.png)
+![This is an image](j4y.png)
 
 ### [About](about.md)
 > About me as a Musician.

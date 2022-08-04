@@ -1,15 +1,15 @@
 ## Welcome to my Website!
 
-This website is a place for me to publish my music to the world for everyone to listen to, if they want.
+This website is a place for me to publish my music so everyone can listen to it, if they want.
 
 ![This is an image](https://github.com/j4y146/J4YMusic/blob/main/dfgdfghd.png)
 
 ### [About](about.md)
-> About Me as a Musician.
+> About me as a Musician.
 > 
 
 ### [Albums](albums.md)
-> My Albums out now, and to come.
+> My albums, out now, and to come.
 > 
 
 ### Support?
